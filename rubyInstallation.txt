@@ -1,0 +1,7 @@
+sudo apt install ruby ruby-dev
+
+sudo gem install jwt
+
+nano client_secret.rb
+
+ruby client_secret.rb
